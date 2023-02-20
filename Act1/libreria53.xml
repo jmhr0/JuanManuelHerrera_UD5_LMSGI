@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="libreria53.xsl" type="text/xsl"?>
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor>
+        <isbn>978-1584503804</isbn>
+        <precio>50.06</precio>
+        <numpaginas>150</numpaginas>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informática para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-998-8</isbn>
+        <precio>13.00</precio>
+        <numpaginas>300</numpaginas>
+    </libro>
+    <libro>
+        <titulo>Ejercicios complementarios de lógica digital</titulo>
+        <autor>Alberto Sánchez</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+        <numpaginas>125</numpaginas>
+    </libro>
+    <libro>
+        <titulo>La secta</titulo>
+        <autor>Camilla Lackberg</autor>
+        <editor>Planeta</editor>
+        <isbn>9788408268307</isbn>
+        <precio>10</precio>
+        <numpaginas>185</numpaginas>
+    </libro>
+    <libro>
+        <titulo>TU ERES LO UNICO QUE FALTA EN TU VIDA</titulo>
+        <autor>Borja Vilaseca</autor>
+        <editor>Vergara</editor>
+        <isbn>2910025646085</isbn>
+        <precio>7</precio>
+        <numpaginas>272</numpaginas>
+    </libro>
+    <libro>
+        <titulo>CASTILLOS DE FUEGO</titulo>
+        <autor>Ignacio Martinez de Pison</autor>
+        <editor>SEIX BARRAL</editor>
+        <isbn>9788432241680</isbn>
+        <precio>10</precio>
+        <numpaginas>125</numpaginas>
+    </libro>
+    <libro>
+        <titulo>Hijos del fútbol: Prólogo de Ignacio Martínez de Pisón</titulo>
+        <autor>Ignacio Martinez de Pison</autor>
+        <editor>SEIX BARRAL</editor>
+        <isbn>978-8432239861</isbn>
+        <precio>10.50</precio>
+        <numpaginas>400</numpaginas>
+    </libro>
+    <libro>
+        <titulo>EL DIA DE MAÑANA</titulo>
+        <autor>Ignacio Martinez de Pison</autor>
+        <editor>SEIX BARRAL</editor>
+        <isbn>9788432214042</isbn>
+        <precio>12.50</precio>
+        <numpaginas>483</numpaginas>
+    </libro>
+</libreria>
