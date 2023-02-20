@@ -21,7 +21,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <td><xsl:value-of select="titulo"/></td>
             <td><xsl:value-of select="autor"/></td>
             <td><xsl:value-of select="editor"/></td>
-            <td><xsl:value-of select="numPaginas"/></td>
+            <td><xsl:value-of select="numpaginas"/></td>
             <td><xsl:value-of select="precio"/></td>
         </tr>
         </xsl:if>

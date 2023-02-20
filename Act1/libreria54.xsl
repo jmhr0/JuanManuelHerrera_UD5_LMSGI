@@ -22,7 +22,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <td bgcolor="red"><xsl:value-of select="titulo"/></td>
                         <td bgcolor="red"><xsl:value-of select="autor"/></td>
                         <td bgcolor="red"><xsl:value-of select="editor"/></td>
-                        <td bgcolor="red"><xsl:value-of select="numPaginas"/></td>
+                        <td bgcolor="red"><xsl:value-of select="numpaginas"/></td>
                         <td bgcolor="red"><xsl:value-of select="precio"/></td>
                     </xsl:when>
                     <xsl:when test="precio &lt; 25">
@@ -30,7 +30,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <td bgcolor="green"><xsl:value-of select="titulo"/></td>
                         <td bgcolor="green"><xsl:value-of select="autor"/></td>
                         <td bgcolor="green"><xsl:value-of select="editor"/></td>
-                        <td bgcolor="green"><xsl:value-of select="numPaginas"/></td>
+                        <td bgcolor="green"><xsl:value-of select="numpaginas"/></td>
                         <td bgcolor="green"><xsl:value-of select="precio"/></td>
                     </xsl:when>
                 </xsl:choose>

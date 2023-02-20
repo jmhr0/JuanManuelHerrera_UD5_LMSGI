@@ -14,14 +14,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <th>Número Páginas</th>
             <th>Precio</th>
         </tr>
-        <xsl:for-each select="libreria/libro[autor='Borja Vilaseca']">       <!--usando != mostrará los libros que no son de ese autor-->
+        <xsl:for-each select="libreria/libro[autor='Borja Vilaseca']">       <!--usando != muestra los libros que no son de ese autor-->
         <xsl:sort select="precio" data-type="number"/>
         <tr>
             <td><xsl:value-of select="isbn"/></td>
             <td><xsl:value-of select="titulo"/></td>
             <td><xsl:value-of select="autor"/></td>
             <td><xsl:value-of select="editor"/></td>
-            <td><xsl:value-of select="numPaginas"/></td>
+            <td><xsl:value-of select="numpaginas"/></td>
             <td><xsl:value-of select="precio"/></td>
         </tr>
         </xsl:for-each>    
