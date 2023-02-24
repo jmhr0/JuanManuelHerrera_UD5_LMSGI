@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cd_p2.xsl" type="text/xsl"?>
+<ListaCD>
+    <CD>
+        <TituloAlbum>El ultimo tour del mundo</TituloAlbum>
+        <Artista>Bad Bunny</Artista>
+        <cancion tiempo="205s">Dákiti</cancion>
+        <cancion tiempo="162s">Hoy cobré</cancion>
+        <cancion tiempo="221s">Antes de que acabe</cancion>
+        <cancion tiempo="214s">Maldita pobreza</cancion>
+        <cancion tiempo="165s">El mundo es mio</cancion>
+        <cancion tiempo="157s">Booker T</cancion>
+        <cancion tiempo="152s">120</cancion>
+        <cancion tiempo="192s">Yo visto así</cancion>
+        <cancion tiempo="140s">Te deseo lo mejor</cancion>
+        <SelloDisco>Rimas Entertainment</SelloDisco>
+        <AnioPubli>2020</AnioPubli>
+    </CD>
+    <CD>
+        <TituloAlbum>Un verano sin ti</TituloAlbum>
+        <Artista>Bad Bunny</Artista>
+        <cancion tiempo="259s">Ojitos lindos</cancion>
+        <cancion tiempo="245s">Otro atardecer</cancion>
+        <cancion tiempo="340s">Andrea</cancion>
+        <cancion tiempo="228s">Party</cancion>
+        <cancion tiempo="238s">Tarot</cancion>
+        <cancion tiempo="209s">La corriente</cancion>
+        <cancion tiempo="214s">Efecto</cancion>
+        <cancion tiempo="177s">Un ratito</cancion>
+        <cancion tiempo="150s">Un verano sin ti</cancion>
+        <SelloDisco>Rimas Entertainment</SelloDisco>
+        <AnioPubli>2022</AnioPubli>
+    </CD>
+    <CD>
+        <TituloAlbum>Harry's House</TituloAlbum>
+        <Artista>Harry Styles</Artista>
+        <cancion tiempo="165s">Daylight</cancion>
+        <cancion tiempo="205s">Boyfriends</cancion>
+        <cancion tiempo="204s">Music for a Sushi Restaurant</cancion>
+        <cancion tiempo="167s">As it was</cancion>
+        <cancion tiempo="244s">Cinema</cancion>
+        <cancion tiempo="192s">Grapejuice</cancion>
+        <cancion tiempo="219s">Satellite</cancion>
+        <SelloDisco>Columbia</SelloDisco>
+        <AnioPubli>2022</AnioPubli>
+    </CD>
+    <CD>
+        <TituloAlbum>Midnights</TituloAlbum>
+        <Artista>Taylor Swift</Artista>
+        <cancion tiempo="269s">Snow on the beach</cancion>
+        <cancion tiempo="202s">Sweet Nothing</cancion>
+        <cancion tiempo="219s">Bigger than the whole sky</cancion>
+        <cancion tiempo="206s">Lavender Haze</cancion>
+        <cancion tiempo="217s">Question?</cancion>
+        <cancion tiempo="151s">Glitch</cancion>
+        <cancion tiempo="198s">You're on your own kid</cancion>
+        <cancion tiempo="225s">Karma</cancion>
+        <cancion tiempo="309s">Anti-hero</cancion>
+        <SelloDisco>Republic Records</SelloDisco>
+        <AnioPubli>2022</AnioPubli>
+    </CD>
+    <CD>
+        <TituloAlbum>Planet her (Deluxe)</TituloAlbum>
+        <Artista>DojaCat</Artista>
+        <cancion tiempo="159s">Options</cancion>
+        <cancion tiempo="186s">You right</cancion>
+        <cancion tiempo="189s">I don't Do Drugs</cancion>
+        <cancion tiempo="177s">Been Like this</cancion>
+        <cancion tiempo="210s">Kiss Me More</cancion>
+        <cancion tiempo="213s">Payday</cancion>
+        <cancion tiempo="224s">Naked</cancion>
+        <cancion tiempo="173s">Woman</cancion>
+        <SelloDisco>Kemosabe/RCA</SelloDisco>
+        <AnioPubli>2021</AnioPubli>
+    </CD>
+    <CD>
+        <TituloAlbum>Future Nostalgia</TituloAlbum>
+        <Artista>Dua Lipa</Artista>
+        <cancion tiempo="210s">Hallucinate</cancion>
+        <cancion tiempo="183s">Don't Start Now</cancion>
+        <cancion tiempo="185s">Future Nostalgia</cancion>
+        <cancion tiempo="204s">Levitating</cancion>
+        <cancion tiempo="210s">Cool</cancion>
+        <cancion tiempo="195s">Pretty Please</cancion>
+        <cancion tiempo="166s">Boys will be boys</cancion>
+        <cancion tiempo="222s">Break My Heart</cancion>
+        <SelloDisco>Warner Records</SelloDisco>
+        <AnioPubli>2020</AnioPubli>
+    </CD>
+    <CD>
+        <TituloAlbum>YHLQMDLG</TituloAlbum>
+        <Artista>Bad Bunny</Artista>
+        <cancion tiempo="295s">Safaera</cancion>
+        <cancion tiempo="207s">Bichiyal</cancion>
+        <cancion tiempo="233s">Una vez</cancion>
+        <cancion tiempo="168s">Que Malo</cancion>
+        <cancion tiempo="240s">Hablamos mañana</cancion>
+        <cancion tiempo="217s">Una vez</cancion>
+        <cancion tiempo="207s">La santa</cancion>
+        <cancion tiempo="137s">La Zona</cancion>
+        <cancion tiempo="163s">La dificil</cancion>
+        <SelloDisco>Rimas Entertainment</SelloDisco>
+        <AnioPubli>2020</AnioPubli>
+    </CD>
+    <CD>
+        <TituloAlbum>Justice</TituloAlbum>
+        <Artista>Justin Bieber</Artista>
+        <cancion tiempo="208s">Holy</cancion>
+        <cancion tiempo="187s">Red Eye</cancion>
+        <cancion tiempo="159s">Loved By You</cancion>
+        <cancion tiempo="174s">As I am</cancion>
+        <cancion tiempo="158s">Unstable</cancion>
+        <cancion tiempo="218s">Die for you</cancion>
+        <cancion tiempo="209s">Lonely</cancion>
+        <cancion tiempo="198s">Peaches</cancion>
+        <SelloDisco>RDef Jam Recordings</SelloDisco>
+        <AnioPubli>2021</AnioPubli>
+    </CD>
+    <CD>
+        <TituloAlbum>Dawn FM</TituloAlbum>
+        <Artista>The Weeknd</Artista>
+        <cancion tiempo="264s">I heard you're married</cancion>
+        <cancion tiempo="340s">Take My Breath</cancion>
+        <cancion tiempo="212s">Less than zero</cancion>
+        <cancion tiempo="206s">Don't break my heart</cancion>
+        <cancion tiempo="210s">Here we go again</cancion>
+        <cancion tiempo="189s">Sacrifice</cancion>
+        <cancion tiempo="168s">Every Angel is Terrifying</cancion>
+        <cancion tiempo="164s">Best friends</cancion>
+        <SelloDisco>Republic Records</SelloDisco>
+        <AnioPubli>2022</AnioPubli>
+    </CD>
+    <CD>
+        <TituloAlbum>Sour</TituloAlbum>
+        <Artista>Olivia Rodrigo</Artista>
+        <cancion tiempo="178s">Good 4 u</cancion>
+        <cancion tiempo="163s">1 step forward, 3 steps back</cancion>
+        <cancion tiempo="229s">traitor</cancion>
+        <cancion tiempo="143s">brutal</cancion>
+        <cancion tiempo="242s">drivers license</cancion>
+        <cancion tiempo="173s">jealousy</cancion>
+        <cancion tiempo="215s">deja vu</cancion>
+        <cancion tiempo="152s">favourite crime</cancion>
+        <SelloDisco>Geffen Records</SelloDisco>
+        <AnioPubli>2021</AnioPubli>
+    </CD>
+    <CD>
+        <TituloAlbum>El mal querer</TituloAlbum>
+        <Artista>Rosalia</Artista>
+        <cancion tiempo="150s">Malamente</cancion>
+        <cancion tiempo="269s">Que no salga la luna</cancion>
+        <cancion tiempo="193s">Pienso en tu mirá</cancion>
+        <cancion tiempo="144s">De aquí no sales</cancion>
+        <cancion tiempo="208s">Reniego</cancion>
+        <cancion tiempo="40s">Preso</cancion>
+        <cancion tiempo="182s">Bagdad</cancion>
+        <cancion tiempo="162s">Di mi nombre</cancion>
+        <SelloDisco>Rimas Entertainment</SelloDisco>
+        <AnioPubli>2020</AnioPubli>
+    </CD>
+</ListaCD>
